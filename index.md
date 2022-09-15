@@ -5,3 +5,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [X] Play Half-Life and all of the expansions
+- [X] Play Half-Life 2 and all the episodes
+- [X] Play Half-Life: Alyx
+- [ ] Play Half-Life 3
